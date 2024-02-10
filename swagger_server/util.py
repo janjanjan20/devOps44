@@ -12,6 +12,7 @@ def _deserialize(data, klass):
     :param klass: class literal, or string of class name.
 
     :return: object.
+    lalala
     """
     if data is None:
         return None
